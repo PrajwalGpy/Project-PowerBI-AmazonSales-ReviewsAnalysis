@@ -193,9 +193,11 @@ Keep track of the number of product reviews received year-to-date to assess cust
 
 - **File Name**: `Project(PowerBI)AmazonSales&ReviewsAnalysis.pbix`  
   **Description**: Final Power BI report file.
+  [Download File Here](<https://github.com/PrajwalGpy/Project-PowerBI-AmazonSales-ReviewsAnalysis/blob/main/Project(PowerBI)AmazonSales%26ReviewsAnalysis.pbix>)
 
 - **File Name**: `Amazon_Combined_Data.xlsx`  
   **Description**: Combined dataset containing Amazon sales and review data.
+  [Download File Here](https://github.com/PrajwalGpy/Project-PowerBI-AmazonSales-ReviewsAnalysis/blob/main/Amazon_Combined_Data.xlsx)
 
 (Upload both files to this repository so others can open and explore the report.)
 
