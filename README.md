@@ -7,7 +7,7 @@ The goal is to monitor key KPIs like **YTD Sales**, **QTD Sales**, **Products So
 
 ## Dashboard Demo
 
-![Dashboard Demo](./images/Dashboard_Demo.gif)
+![Dashboard Demo](https://github.com/PrajwalGpy/Project-PowerBI-AmazonSales-ReviewsAnalysis/blob/main/images/newlowRecording%202025-11-18%20085015.gif)
 
 ---
 
